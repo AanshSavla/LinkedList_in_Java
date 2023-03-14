@@ -16,3 +16,4 @@ Circular LL
 <img width="797" alt="image" src="https://user-images.githubusercontent.com/54212786/224707206-1ffd390e-bb71-409c-8325-d2a1954c8528.png">
 <img width="797" alt="image" src="https://user-images.githubusercontent.com/54212786/224707317-34192712-5e36-483a-9f1b-988061645efd.png">
 
+Doubly LL: Results of Doubly LL are same as Singly LL
