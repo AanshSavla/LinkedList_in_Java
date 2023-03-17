@@ -19,3 +19,5 @@ Circular LL
 Doubly LL: Results of Doubly LL are same as Singly LL
 
 Circular Doubly LL: Results of Circular Doubly LL are same as Circular LL
+
+Header LL: Results of Header LL are same as Singly LL
