@@ -23,3 +23,8 @@ Circular Doubly LL: Results of Circular Doubly LL are same as Circular LL
 Header LL: Results of Header LL are same as Singly LL
 
 CiruclarHeaderLL : Results of Circular Header LL are same as Circular LL.
+
+Multi Linked List to store Sparse Matrix
+
+<img width="577" alt="image" src="https://user-images.githubusercontent.com/54212786/226555839-4f240278-43dc-487b-84d0-07c47eea98b5.png">
+
