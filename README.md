@@ -28,3 +28,8 @@ Multi Linked List to store Sparse Matrix
 
 <img width="577" alt="image" src="https://user-images.githubusercontent.com/54212786/226555839-4f240278-43dc-487b-84d0-07c47eea98b5.png">
 
+Polynomial Addition and Subtraction
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227021048-29598784-86ee-4f52-bdf7-124117cb8902.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227021179-4fb5b213-d642-402d-856f-92f9f5e46893.png">
+
