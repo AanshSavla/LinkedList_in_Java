@@ -39,4 +39,10 @@ Stack using Linked List
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227164553-a209c149-d0c8-4067-93ba-b4843b66a0d4.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227164679-81b88280-b305-4db4-93da-a80f0face1e7.png">
 
+Queue using Linked List
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227185504-cbbd5158-b61e-4309-a3a0-3d2da7c1beb7.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227185619-5ee4e70a-0be9-42b6-b4ce-9ae33c736a9e.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227185809-df69dc6f-af45-4311-bdb2-ca810e403f6f.png">
+
 
