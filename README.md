@@ -33,3 +33,10 @@ Polynomial Addition and Subtraction
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227021048-29598784-86ee-4f52-bdf7-124117cb8902.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227021179-4fb5b213-d642-402d-856f-92f9f5e46893.png">
 
+Stack using Linked List
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227164390-4790d5e9-c43a-4e10-b4d8-e520c55c4a77.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227164553-a209c149-d0c8-4067-93ba-b4843b66a0d4.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227164679-81b88280-b305-4db4-93da-a80f0face1e7.png">
+
+
